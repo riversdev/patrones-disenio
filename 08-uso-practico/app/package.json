@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Api rest del curso de patrones de disenio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "riversdev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
